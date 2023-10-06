@@ -1,0 +1,114 @@
+[
+    {
+        "Type": "Berger",
+        "id": 1,
+        "name": "Hamberger",
+        "price": "4.20",
+        "text": "New capmpaigns burger taste",
+        "image": "berger/hamberger.png"
+
+      },
+      {
+        "Type": "Berger",
+        "id": 2,
+        "name": "Royalberger",
+        "price": "5.20",
+        "text": "New capmpaigns burger taste",
+        "image": "berger/royalberger.png"
+      },  {
+        "Type": "Berger",
+        "id": 3,
+        "name": "chikenberger",
+        "price": "7.20",
+        "text": "New capmpaigns burger taste",
+        "image": "berger/chikenberger.png"
+      }
+      ,{
+        "Type": "Chiken",
+        "id": 4,
+        "name": "Chiken",
+        "price": "12.20",
+        "text": "New capmpaigns Chiken taste",
+        "image": "chiken/chiken2.png"
+
+      },
+      {
+        "Type": "Chiken",
+        "id": 5,
+        "name": "Cheese chiken",
+        "price": "15.20",
+        "text": "New capmpaigns Chiken taste",
+        "image": "chiken/chikenpanir.png"
+      },  {
+        "Type": "Chiken",
+        "id": 6,
+        "name": "RaceChiken",
+        "price": "7.20",
+        "text": "New capmpaigns Chiken taste",
+        "image": "chiken/racechiken.png"
+      }
+      ,  {
+        "Type": "Chips",
+        "id": 7,
+        "name": "Simba",
+        "price": "1.20",
+        "text": "New capmpaigns Chips taste",
+        "image": "chips/chips.png"
+      }
+      ,  {
+        "Type": "Chips",
+        "id": 8,
+        "name": "Ruffles",
+        "price": "1.10",
+        "text": "New capmpaigns Chips taste",
+        "image": "chips/chips2.png"
+      }
+      ,  {
+        "Type": "Familypack",
+        "id": 9,
+        "name": "Family pack",
+        "price": "1.20",
+        "text": "New capmpaigns Chips taste",
+        "image": "familypack/familypack.png"
+      }
+      ,  {
+        "Type": "Singlepack",
+        "id": 10,
+        "name": "Single Pack",
+        "price": "22.10",
+        "text": "New capmpaigns Chiken taste",
+        "image": "singlepack/singlepack.png"
+      }
+      ,  {
+        "Type": "Potato",
+        "id": 11,
+        "name": "Potato",
+        "price": "6.10",
+        "text": "New capmpaigns Potato taste",
+        "image": "potato/potato.png"
+      }
+      ,  {
+        "Type": "Sauce",
+        "id": 12,
+        "name": "Red Sauce",
+        "price": "1.10",
+        "text": "New capmpaigns Sauce taste",
+        "image": "sauce/saucered.png"
+      }
+      ,  {
+        "Type": "Sauce",
+        "id": 13,
+        "name": "BBQ Sauce",
+        "price": "1.10",
+        "text": "New capmpaigns Sauce taste",
+        "image": "sauce/saucebbq.png"
+      }
+      ,  {
+        "Type": "Sauce",
+        "id": 14,
+        "name": "Cecream Sauce",
+        "price": "1.10",
+        "text": "New capmpaigns Sauce taste",
+        "image": "sauce/saucecream.png"
+      }
+]

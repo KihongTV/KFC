@@ -1,0 +1,30 @@
+[
+    {
+    "name":"Berger",
+    "imageAddress":"/berger/hamberger.png"
+},
+{
+    "name":"Chips",
+    "imageAddress":"/chips/chips.png"
+},
+{
+    "name":"Familypack",
+    "imageAddress":"/familypack/familypack.png"
+},
+{
+    "name":"Singlepack",
+    "imageAddress":"/singlepack/singlepack.png"
+},
+{
+    "name":"Potato",
+    "imageAddress":"/potato/potato.png"
+},
+{
+    "name":"Chiken",
+    "imageAddress":"/chiken/chiken3.png"
+},
+{
+    "name":"Sauce",
+    "imageAddress":"/sauce/saucebbq.png"
+}
+]
